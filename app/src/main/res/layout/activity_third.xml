@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.android.mmauri.seccion_01.ThirdActivity">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/editTextPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="46dp"
+            android:ems="10"
+            android:inputType="phone" />
+
+        <ImageButton
+            android:id="@+id/imageButtonPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editTextPhone"
+            android:layout_toEndOf="@+id/editTextPhone"
+            android:layout_toRightOf="@+id/editTextPhone"
+            android:background="@android:drawable/sym_call_outgoing" />
+
+        <EditText
+            android:id="@+id/editTextWeb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/editTextPhone"
+            android:layout_alignStart="@+id/editTextPhone"
+            android:layout_below="@+id/editTextPhone"
+            android:layout_marginTop="39dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="" />
+
+        <ImageButton
+            android:id="@+id/imageButtonWeb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/editTextWeb"
+            android:layout_toEndOf="@+id/editTextWeb"
+            android:layout_toRightOf="@+id/editTextWeb"
+            android:background="@android:drawable/ic_menu_add" />
+
+    </RelativeLayout>
+
+    <ImageButton
+        android:id="@+id/imageButtonCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorAccent"
+        app:srcCompat="@android:drawable/ic_menu_camera" />
+
+</RelativeLayout>

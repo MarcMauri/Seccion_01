@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/2115e5c0f657660f93a60d713ef5108299569722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_21da9c02fd3e39a24edf081f74f9785c0ad361b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/65330cf3450ff3af5c026cce5b32df7140774205/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_0f892c7cde133ecd93a1a4633b7d74b51c3c5975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_980a3037a2264ec72dbd7d964df380d3f2debe86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/14c4a5c84f4fde7c6b2151d0b99880e4974485a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_1108a69856cdcbbed133ba19d89421ef8e61cbbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/28eb3c5e896c5348ec62d1d7358606c72ea3c7d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_8f3e7cd36cd0a2f60cca7c8e3013191e24d11bc1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_48300db04eaa007162d6ce1f2c5586864c8b4280/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_fb6093a8fa2e6213148c16bddfdbf3d55b173932.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2ed9d10c27cea9fb1e280ce4749d495db439346b">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4fba7871b1eaf8da4e481a8befa9b240f341331/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/37103f68235084882cd7d3aba6eea94b2efc9139/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_11115ee259eb60481bd2d3ab99abf949ce29a33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/bca2a52c810149ce375001fce5f0e86b0b4125d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_66775992cb9e7d32e622735d452258c5a0e9aa55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/c17684b90a5d99d47c6e4c9a7affaa4398306a5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_45adc136874e39aea40a7ee9ac06057bb6ad9b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/40806fdc5e4fea72d209e9250fea07fe23fd6ec9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_4a27aa24fd7bfd023da88460f588929679dde9cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/7d9620072db0a0c7d6b43adf832b855dd19d6009/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_a9844cde4f74e255300ec108a9f50ebe054f74ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marc/.android/build-cache/f799d438d99046fff3605ae88a3da92e3e60dbe6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_01/app/build/intermediates/pre-dexed/debug/classes_c7189658a026179a39a5d92d87198554b8c9fc0f.jar" />
+    </item>
+
+</items>
